@@ -5,6 +5,11 @@ import type { Product } from "../data/products";
 
 // The card takes one typed product as a prop. TypeScript checks every field.
 export default function ProductCard({ product }: { product: Product }) {
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const imageSrc = product.image.startsWith("/")
+    ? `${basePath}${product.image}`
+    : product.image;
+
   return (
     <Link href={`/products/${product.id}`} className="card">
       <div
@@ -15,7 +20,7 @@ export default function ProductCard({ product }: { product: Product }) {
       >
         {product.badge && <span className="card-badge">{product.badge}</span>}
         <Image
-          src={product.image}
+          src={imageSrc}
           alt={product.name}
           fill
           sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"

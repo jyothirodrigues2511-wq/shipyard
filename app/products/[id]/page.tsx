@@ -56,6 +56,10 @@ export default async function ProductPage({ params }: ProductPageProps) {
   }
 
   const related = relatedProducts(product);
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+  const imageSrc = product.image.startsWith("/")
+    ? `${basePath}${product.image}`
+    : product.image;
 
   return (
     <main className="container">
@@ -76,7 +80,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
         >
           {product.badge && <span className="card-badge">{product.badge}</span>}
           <Image
-            src={product.image}
+            src={imageSrc}
             alt={product.name}
             fill
             priority
