@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ShipYard
 
-## Getting Started
+A product-catalog storefront built with Next.js + TypeScript.
 
-First, run the development server:
+- **Live site**: https://jyothirodrigues2511-wq.github.io/shipyard/
+- **Lighthouse Performance**: 94+ (mobile)
+
+![Lighthouse Report](./public/lighthouse.png)
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## What it does
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Browse a product grid and open a detail page for each product. Optimized with `next/image`, `next/font`, dynamic lazy loading (`next/dynamic`), per-page metadata, and resilient loading, error, and not-found states.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Architecture & Optimizations
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Static Export**: Prerendered HTML pages via Next.js static export deployed to GitHub Pages.
+- **Image Optimization**: Preloaded above-the-fold hero image with `priority`, responsive sizing via `fill` and `sizes` to eliminate layout shift (CLS: 0).
+- **Self-Hosted Typography**: Zero render-blocking external font requests using `next/font/google` (`Inter`).
+- **Code Splitting & Lazy-Loading**: Heavy below-the-fold customer `Reviews` component loaded on demand via `next/dynamic` with animated skeleton fallback.
+- **Resilient Route States**: Built-in App Router handling with `app/loading.tsx`, `app/error.tsx` (with reset retry), and `app/not-found.tsx`.
