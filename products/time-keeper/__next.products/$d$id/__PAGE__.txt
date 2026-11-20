@@ -1,0 +1,41 @@
+1:"/shipyard/_next/static/chunks/08mika-44sn50.js"
+2:"LoadingBoundaryProvider"
+3:I[39756,["$1"],"$2"]
+4:"$Sreact.fragment"
+5:"/shipyard/_next/static/chunks/385pqlx_wra1o.js"
+6:I[22016,["$1","$5"],""]
+7:I[39756,["$1"],"default"]
+8:"/shipyard/_next/static/chunks/1wuffhthrwpsm.js"
+9:I[8821,["$1","$8"],"default"]
+a:I[37457,["$1"],"default"]
+13:I[5500,["$1","$5"],"Image"]
+14:"$Sreact.suspense"
+15:I[52157,["$1","$5"],"PreloadChunks"]
+16:I[44670,["$1","$5"],"default"]
+1b:"ViewportBoundary"
+1c:I[97367,["$1"],"$1b"]
+1d:"MetadataBoundary"
+1e:I[97367,["$1"],"$1d"]
+1f:I[27201,["$1"],"IconMark"]
+:HL["/shipyard/_next/static/chunks/298t10rl7bk2z.css","style"]
+c:X
+f:X
+f:C
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","main",null,{"className":"container","children":[["$","nav",null,{"className":"crumbs","children":[["$","$L6",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L6",null,{"href":"/#Wearables","children":"Wearables"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"crumbs-here","children":"Time Keeper"}]]}],["$","article",null,{"className":"detail","children":[["$","div",null,{"className":"detail-art","style":{"background":"linear-gradient(135deg, #d64d7a, #ff85ab)"},"children":[["$","span",null,{"className":"card-badge","children":"Top rated"}],["$","$L13",null,{"src":"/shipyard/products/time-keeper.webp","alt":"Time Keeper","fill":true,"priority":true,"sizes":"(max-width: 720px) 100vw, 340px","style":{"objectFit":"cover"}}]]}],["$","div",null,{"className":"detail-body","children":[["$","span",null,{"className":"card-category","children":"Wearables"}],["$","h1",null,{"className":"detail-name","children":"Time Keeper"}],["$","p",null,{"className":"detail-tagline","children":"A smartwatch that tracks everything."}],["$","span",null,{"className":"stars","aria-label":"4.8 out of 5 stars","children":[["$","span",null,{"className":"stars-track","children":"★★★★★"}],["$","span",null,{"className":"stars-fill","style":{"width":"100%"},"children":"★★★★★"}],["$","span",null,{"className":"stars-num","children":"4.8"}]]}],["$","span",null,{"className":"detail-price","children":["$$",199]}],["$","p",null,{"className":"detail-desc","children":"Heart rate, sleep, and workouts on a bright always-on display. A week of battery means you can leave the charger at home."}],["$","h2",null,{"className":"detail-specs-title","children":"Specs"}],["$","ul",null,{"className":"detail-specs","children":[["$","li","Always-on display",{"children":"Always-on display"}],["$","li","7-day battery",{"children":"7-day battery"}],["$","li","Heart + sleep",{"children":"Heart + sleep"}],["$","li","50m water rating",{"children":"50m water rating"}]]}]]}]]}],["$","$14",null,{"fallback":["$","div",null,{"className":"reviews-loading","aria-label":"Loading customer reviews","children":[["$","div",null,{"className":"reviews-skeleton-header"}],["$","div",null,{"className":"reviews-skeleton-card"}]]}],"children":[["$","$L15",null,{"moduleIds":["6072775125630089969"]}],["$","$L16",null,{"productId":"time-keeper","productRating":4.8,"productName":"Time Keeper"}]]}],["$","section",null,{"className":"related","children":[["$","div",null,{"className":"section-head","children":["$","h2",null,{"className":"section-title","children":["More in ","Wearables"]}]}],"$L17"]}]]}],["$L18"],"$L19"]}],"p":"$@1a","v":null,"s":"$c"}}]]
+10:[["children",{"s":{"n":"id","t":"d","k":"time-keeper","s":[]},"h":96,"d":{"r":["$","$4","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@11","v":"$f","s":"$c"},"c":"$Q12"}]]
+d:[["children",{"s":"products","h":96,"d":{"r":["$","$4","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":84,"d":{"r":["$","$L3",null,{"loading":[["$","main","l",{"className":"container","children":["$","div",null,{"className":"status-container","children":["$","p",null,{"className":"status","children":"Loading ShipYard…"}]}]}],[],null],"children":["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/shipyard/_next/static/chunks/298t10rl7bk2z.css","precedence":"next"}],["$","script","script-0",{"src":"/shipyard/_next/static/chunks/08mika-44sn50.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"_0D_jrq_className","children":[["$","nav",null,{"className":"nav","children":["$","div",null,{"className":"nav-inner","children":[["$","$L6",null,{"href":"/","className":"nav-brand","children":"⚡ ShipYard"}],["$","div",null,{"className":"nav-links","children":[["$","$L6",null,{"href":"/","children":"Home"}],["$","$L6",null,{"href":"/#Sneakers","children":"Sneakers"}],["$","$L6",null,{"href":"/#Audio","children":"Audio"}],["$","$L6",null,{"href":"/#Wearables","children":"Wearables"}],["$","$L6",null,{"href":"/#Gadgets","children":"Gadgets"}]]}],["$","span",null,{"className":"nav-cart","children":"🛍️"}]]}]}],["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/shipyard/_next/static/chunks/1wuffhthrwpsm.js","async":true}]],"template":["$","$La",null,{}],"notFound":[["$","main",null,{"className":"container","children":["$","div",null,{"className":"notfound","children":[["$","h1",null,{"className":"notfound-title","children":"Product not found"}],["$","p",null,{"className":"notfound-sub","children":"We could not find that item. It may have sold out or moved."}],["$","$L6",null,{"href":"/","className":"back-link","children":"← Back to catalog"}]]}]}],[]]}],["$","footer",null,{"className":"footer","children":["$","p",null,{"children":"Built with Next.js. ShipYard is a demo storefront."}]}]]}]}]]}]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$4","h",{"children":[null,["$","$L1c",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Time Keeper | ShipYard"}],["$","meta","1",{"name":"description","content":"A smartwatch that tracks everything. Heart rate, sleep, and workouts on a bright always-on display. A week of battery means you can leave the charger at home."}],["$","link","2",{"rel":"icon","href":"/shipyard/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1f","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@20","v":null,"s":"$c"}},"a":"$@21","u":"$@22","b":"ZHPVJD5En8YaQFTsz0aik"}
+23:I[97367,["$1"],"OutletBoundary"]
+17:["$","div",null,{"className":"grid","children":[["$","$L6","focus-band",{"href":"/products/focus-band","className":"card","children":[["$","div",null,{"className":"card-art","style":{"background":"linear-gradient(135deg, #1fae9e, #5fe0d1)"},"children":["$undefined",["$","$L13",null,{"src":"/shipyard/products/focus-band.webp","alt":"Focus Band","fill":true,"sizes":"(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw","style":{"objectFit":"cover"}}]]}],["$","div",null,{"className":"card-body","children":[["$","span",null,{"className":"card-category","children":"Wearables"}],["$","h2",null,{"className":"card-name","children":"Focus Band"}],["$","p",null,{"className":"card-tagline","children":"A minimalist fitness tracker."}],["$","span",null,{"className":"stars","aria-label":"4.1 out of 5 stars","children":[["$","span",null,{"className":"stars-track","children":"★★★★★"}],["$","span",null,{"className":"stars-fill","style":{"width":"80%"},"children":"★★★★★"}],["$","span",null,{"className":"stars-num","children":"4.1"}]]}],["$","div",null,{"className":"card-foot","children":[["$","span",null,{"className":"card-price","children":["$$",69]}],["$","span",null,{"className":"card-cta","children":"View →"}]]}]]}]]}]]}]
+18:["$","script","script-0",{"src":"/shipyard/_next/static/chunks/385pqlx_wra1o.js","async":true}]
+19:["$","$L23",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@24"}]}]
+c:300
+24:null
+22:true
+c:C
+21:0
+11:"$undefined"
+e:"$undefined"
+b:"$undefined"
+20:"$undefined"
+1a:"$undefined"

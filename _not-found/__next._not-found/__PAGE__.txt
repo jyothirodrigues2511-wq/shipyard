@@ -1,0 +1,32 @@
+1:"/shipyard/_next/static/chunks/08mika-44sn50.js"
+2:"LoadingBoundaryProvider"
+3:I[39756,["$1"],"$2"]
+4:"$Sreact.fragment"
+5:I[22016,["$1"],""]
+6:I[39756,["$1"],"default"]
+7:"/shipyard/_next/static/chunks/1wuffhthrwpsm.js"
+8:I[8821,["$1","$7"],"default"]
+9:I[37457,["$1"],"default"]
+10:I[97367,["$1"],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[97367,["$1"],"$14"]
+16:"MetadataBoundary"
+17:I[97367,["$1"],"$16"]
+18:I[27201,["$1"],"IconMark"]
+:HL["/shipyard/_next/static/chunks/298t10rl7bk2z.css","style"]
+b:X
+e:X
+e:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","main",null,{"className":"container","children":["$","div",null,{"className":"notfound","children":[["$","h1",null,{"className":"notfound-title","children":"Product not found"}],["$","p",null,{"className":"notfound-sub","children":"We could not find that item. It may have sold out or moved."}],["$","$L5",null,{"href":"/","className":"back-link","children":"← Back to catalog"}]]}]}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$b"}}]]
+c:[["children",{"s":"/_not-found","h":96,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
+0:{"t":{"t":{"s":"","h":84,"d":{"r":["$","$L3",null,{"loading":[["$","main","l",{"className":"container","children":["$","div",null,{"className":"status-container","children":["$","p",null,{"className":"status","children":"Loading ShipYard…"}]}]}],[],null],"children":["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/shipyard/_next/static/chunks/298t10rl7bk2z.css","precedence":"next"}],["$","script","script-0",{"src":"/shipyard/_next/static/chunks/08mika-44sn50.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"_0D_jrq_className","children":[["$","nav",null,{"className":"nav","children":["$","div",null,{"className":"nav-inner","children":[["$","$L5",null,{"href":"/","className":"nav-brand","children":"⚡ ShipYard"}],["$","div",null,{"className":"nav-links","children":[["$","$L5",null,{"href":"/","children":"Home"}],["$","$L5",null,{"href":"/#Sneakers","children":"Sneakers"}],["$","$L5",null,{"href":"/#Audio","children":"Audio"}],["$","$L5",null,{"href":"/#Wearables","children":"Wearables"}],["$","$L5",null,{"href":"/#Gadgets","children":"Gadgets"}]]}],["$","span",null,{"className":"nav-cart","children":"🛍️"}]]}]}],["$","$L6",null,{"parallelRouterKey":"children","error":"$8","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/shipyard/_next/static/chunks/1wuffhthrwpsm.js","async":true}]],"template":["$","$L9",null,{}],"notFound":[["$","main",null,{"className":"container","children":["$","div",null,{"className":"notfound","children":[["$","h1",null,{"className":"notfound-title","children":"Product not found"}],["$","p",null,{"className":"notfound-sub","children":"We could not find that item. It may have sold out or moved."}],["$","$L5",null,{"href":"/","className":"back-link","children":"← Back to catalog"}]]}]}],[]]}],["$","footer",null,{"className":"footer","children":["$","p",null,{"children":"Built with Next.js. ShipYard is a demo storefront."}]}]]}]}]]}]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$4","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ShipYard"}],["$","meta","1",{"name":"description","content":"Gear for people who build, run, and explore."}],["$","link","2",{"rel":"icon","href":"/shipyard/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L18","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@19","v":null,"s":"$b"}},"a":"$@1a","u":"$@1b","b":"ZHPVJD5En8YaQFTsz0aik"}
+12:null
+b:300
+1b:true
+b:C
+1a:0
+d:"$undefined"
+a:"$undefined"
+19:"$undefined"
+13:"$undefined"
