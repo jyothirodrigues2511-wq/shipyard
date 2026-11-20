@@ -1,5 +1,12 @@
+import type { Metadata } from "next";
 import ProductCard from "./components/ProductCard";
 import { products, categories } from "./data/products";
+
+export const metadata: Metadata = {
+  title: "ShipYard — New Season Gear",
+  description:
+    "ShipYard stocks the gear that keeps up with you, from trail shoes to pocket cameras.",
+};
 
 export default function HomePage() {
   return (
