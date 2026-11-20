@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import ProductCard from "../../components/ProductCard";
@@ -42,7 +43,14 @@ export default async function ProductPage({ params }: ProductPageProps) {
           }}
         >
           {product.badge && <span className="card-badge">{product.badge}</span>}
-          <span className="detail-emoji">{product.emoji}</span>
+          <Image
+            src={product.image}
+            alt={product.name}
+            fill
+            priority
+            sizes="(max-width: 720px) 100vw, 340px"
+            style={{ objectFit: "cover" }}
+          />
         </div>
 
         <div className="detail-body">
